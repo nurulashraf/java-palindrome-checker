@@ -15,7 +15,7 @@ A simple Java program to check if a given string or number is a palindrome. The 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/java-palindrome-checker.git
+   git clone https://github.com/nurulashraf/java-palindrome-checker.git
    ```
 2. Navigate to the project directory:
    ```sh
